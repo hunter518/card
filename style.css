@@ -93,3 +93,13 @@ body{
 .card:hover{
     transform: translateX(100px);
 }
+@media screen and (max-width: 500px) {
+  .card {
+    width: 200px;
+    height: 300px;
+  }
+  .card span{
+    width: 50px;
+    height: 130px;
+  }
+}
