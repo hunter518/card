@@ -95,11 +95,9 @@ body{
 }
 @media screen and (max-width: 500px) {
   .card {
-    width: 200px;
-    height: 300px;
+    transform: scale(.6);
   }
   .card span{
-    width: 50px;
-    height: 130px;
+    transform: scale(.5);
   }
 }
