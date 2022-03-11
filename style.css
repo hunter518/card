@@ -93,14 +93,4 @@ body{
 .card:hover{
     transform: translateX(100px);
 }
-@media screen and (max-width: 500px) {
-  .card {
-    transform: scale(.6);
-  }
-  .card span{
-    transform: scale(.5);
-  }
-    .details img, h2, h3{
-    transform:scale(.6)
-    }
-}
+
