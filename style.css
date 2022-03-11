@@ -100,4 +100,7 @@ body{
   .card span{
     transform: scale(.5);
   }
+    .details img, h2, h3{
+    transform:scale(.6)
+    }
 }
