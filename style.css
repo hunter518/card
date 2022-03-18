@@ -93,4 +93,11 @@ body{
 .card:hover{
     transform: translateX(100px);
 }
-
+h3{
+  position: absolute;
+  bottom: 5px;
+  right: 10px;
+}
+img{
+  width: 150px;
+}
